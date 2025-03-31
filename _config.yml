@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Raghavendra Prakash
+title: Equationz Consulting
 
 # Your name to show in the footer
 author: Raghavendra Prakash
@@ -21,7 +21,7 @@ author: Raghavendra Prakash
 
 navbar-links:
   About Me: "aboutme"
-  CCOE Setup Guidelines: "ccoe"
+  CCoE Setup Guidelines: "ccoe"
   Confluence: "https://youneedawiki.com/app/page/14mfO0WgAr7WEE2cRFzolBl8qgmVQwmQR?p=14mfO0WgAr7WEE2cRFzolBl8qgmVQwmQR"
   Resources:
     - How do you establish CCoE (Part 1): "https://www.linkedin.com/pulse/cloud-center-excellence-do-you-need-one-what-adoption-prakash/?trackingId=0P7LILpSRLCcQpNFUEIuqA%3D%3D"
@@ -45,7 +45,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/Equationz.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -63,7 +63,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "raghavendra.prakash@gmail.com"
+  email: "raghavendra.prakash@equationz.in"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: na
   github: raghavendraprakash

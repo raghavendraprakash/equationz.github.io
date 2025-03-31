@@ -21,9 +21,10 @@ author: Raghavendra Prakash
 
 navbar-links:
   About Me: "aboutme"
+  Latest: "what_latest"
   CCoE Setup Guidelines: "ccoe"
   Confluence: "https://youneedawiki.com/app/page/14mfO0WgAr7WEE2cRFzolBl8qgmVQwmQR?p=14mfO0WgAr7WEE2cRFzolBl8qgmVQwmQR"
-  Resources:
+  Posts:
     - How do you establish CCoE (Part 1): "https://www.linkedin.com/pulse/cloud-center-excellence-do-you-need-one-what-adoption-prakash/?trackingId=0P7LILpSRLCcQpNFUEIuqA%3D%3D"
     - How do you establish CCoE (Part 2): "https://www.linkedin.com/pulse/cloud-center-excellence-how-structure-team-raghavendra-prakash/?trackingId=BzPF0a6uRyuikJfeB3k0%2BQ%3D%3D"
     - How do you establish CCoE (Part 3): "https://www.linkedin.com/pulse/cloud-center-excellence-focus-areas-charter-setting-ball-prakash/?trackingId=BzPF0a6uRyuikJfeB3k0%2BQ%3D%3D"

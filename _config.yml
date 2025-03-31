@@ -22,8 +22,6 @@ author: Raghavendra Prakash
 navbar-links:
   About Me: "aboutme"
   Latest: "what_latest"
-  CCoE Setup Guidelines: "ccoe"
-  Confluence: "https://youneedawiki.com/app/page/14mfO0WgAr7WEE2cRFzolBl8qgmVQwmQR?p=14mfO0WgAr7WEE2cRFzolBl8qgmVQwmQR"
   Posts:
     - How do you establish CCoE (Part 1): "https://www.linkedin.com/pulse/cloud-center-excellence-do-you-need-one-what-adoption-prakash/?trackingId=0P7LILpSRLCcQpNFUEIuqA%3D%3D"
     - How do you establish CCoE (Part 2): "https://www.linkedin.com/pulse/cloud-center-excellence-how-structure-team-raghavendra-prakash/?trackingId=BzPF0a6uRyuikJfeB3k0%2BQ%3D%3D"
@@ -39,7 +37,8 @@ navbar-links:
     - Handling K8S Cluster failovers: "https://www.linkedin.com/pulse/handling-failovers-kubernetes-cluster-raghavendra-prakash/?trackingId=BzPF0a6uRyuikJfeB3k0%2BQ%3D%3D"
     - Considering Ray cluster isolation - A security consideration": "https://www.linkedin.com/pulse/enforcing-isolation-your-ray-clusters-raghavendra-prakash-zm8cc/?trackingId=BzPF0a6uRyuikJfeB3k0%2BQ%3D%3D"
     - Distributed customer segmentation with Ray framework: "https://www.linkedin.com/pulse/distributed-customer-segmentation-ray-framework-raghavendra-prakash-duldc/?trackingId=BzPF0a6uRyuikJfeB3k0%2BQ%3D%3D"
- 
+  CCoE Setup Guidelines: "ccoe"
+  Confluence: "https://youneedawiki.com/app/page/14mfO0WgAr7WEE2cRFzolBl8qgmVQwmQR?p=14mfO0WgAr7WEE2cRFzolBl8qgmVQwmQR"
 ################
 # --- Logo --- #
 ################

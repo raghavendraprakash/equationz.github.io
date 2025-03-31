@@ -1,8 +1,11 @@
 #### RAGHAVENDRA PRAKASH, [Email: raghavendra.prakash@equationz.in](raghavendra.prakash@equationz.in), [LinkedIn: linkedin.com/in/raghavendraprakash](https://linkedin.com/in/raghavendraprakash)
 <br>
+Developer Advocate for building Data foundations, Gen AI solutions | Advisory on AI Security and Governance
+<br>
 
 ### PROFESSIONAL SUMMARY 
-I am a Seasoned technology leader with 25+ years of experience in cloud architecture, digital transformation, and enterprise solutions, proven track record in building scalable cloud native solutions, and driving cloud adoption at scale with the focus on performance, operational excellence, and cost optimization. In the last 3 years, I have been closely working on building data lakes, lake houses, data foundations for Gen AI solutions, LLM fine tuning, LLM observability, Agentic flows, and setting up AI CoEs, MLOps platforms.
+I am a strong proponent of Multi-cloud strategy solutions realized with Open source cloud native technologies. <br>
+I am a Seasoned technology practitioner of Gen AI powered digital transformation, with a proven track record in building scalable cloud native solutions, driving cloud adoption at scale with the focus on performance, operational excellence, and cost optimization. In the last 3 years, I have been intensely working on building data lakes, lake houses, data foundations for Gen AI solutions, LLM fine tuning, LLM observability, Agentic AI flows, and establishing AI CoEs and MLOps platforms. 
 
 ### At AWS India 
 Senior Solutions Architect (2021 - Present)

@@ -4,7 +4,7 @@ Developer Advocate for building Data foundations, Gen AI solutions | Advisory on
 <br>
 
 ### PROFESSIONAL SUMMARY 
-I am a strong proponent of Multi-cloud strategy solutions realized with Open source cloud native technologies. <br>
+I am a strong proponent of Multi-cloud strategy realized with Open source cloud native technologies. <br>
 I am a Seasoned technology practitioner of Gen AI powered digital transformation, with a proven track record in building scalable cloud native solutions, driving cloud adoption at scale with the focus on performance, operational excellence, and cost optimization. In the last 3 years, I have been intensely working on building data lakes, lake houses, data foundations for Gen AI solutions, LLM fine tuning, LLM observability, Agentic AI flows, and establishing AI CoEs and MLOps platforms. 
 
 ### At AWS India 

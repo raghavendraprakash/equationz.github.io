@@ -22,7 +22,7 @@ author: Raghavendra Prakash
 navbar-links:
   About Me: "aboutme"
   Latest: "what_latest"
-  Posts:
+  Posts       :
     - Why OSS Strategy?: "https://www.linkedin.com/pulse/why-do-you-need-oss-strategy-raghavendra-prakash-6yjlc/?trackingId=0P7LILpSRLCcQpNFUEIuqA%3D%3D"
     - What is Open source AI?: "https://www.linkedin.com/pulse/why-open-source-ai-how-os-contributes-transparency-prakash-1sgec/?trackingId=BzPF0a6uRyuikJfeB3k0%2BQ%3D%3D"
     - Using Generative AI with Knowledge Graph: "https://www.linkedin.com/pulse/llm-knowledge-graph-winning-combination-raghavendra-prakash-az0zc/?trackingId=BzPF0a6uRyuikJfeB3k0%2BQ%3D%3D"

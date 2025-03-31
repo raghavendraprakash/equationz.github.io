@@ -1,8 +1,8 @@
-#### RAGHAVENDRA PRAKASH, [Email: raghavendra.prakash@gmail.com](raghavendra.prakash@gmail.com), [LinkedIn: linkedin.com/in/raghavendraprakash](https://linkedin.com/in/raghavendraprakash)
+#### RAGHAVENDRA PRAKASH, [Email: raghavendra.prakash@equationz.in](raghavendra.prakash@equationz.in), [LinkedIn: linkedin.com/in/raghavendraprakash](https://linkedin.com/in/raghavendraprakash)
 <br>
 
 ### PROFESSIONAL SUMMARY 
-A Seasoned technology leader with 25+ years of experience in cloud architecture, digital transformation, and enterprise solutions. Currently serving as a Senior Solutions Architect at Amazon Web Services India, leading strategic initiatives for a customers in healthcare, travel and hospitality segments. Proven track record in building high-performing teams, scalable cloud native solutions, and driving cloud adoption at scale with the focus on performance, operational excellence, and cost optimization.
+I am a Seasoned technology leader with 25+ years of experience in cloud architecture, digital transformation, and enterprise solutions, proven track record in building scalable cloud native solutions, and driving cloud adoption at scale with the focus on performance, operational excellence, and cost optimization. In the last 3 years, I have been closely working on building data lakes, lake houses, data foundations for Gen AI solutions, LLM fine tuning, LLM observability, Agentic flows, and setting up AI CoEs, MLOps platforms.
 
 ### At AWS India 
 Senior Solutions Architect (2021 - Present)
